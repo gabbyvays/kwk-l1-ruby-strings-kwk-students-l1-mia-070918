@@ -8,13 +8,13 @@ name = gets.chomp
 
 guest_name = "Hermoine"
 
-party_name = "Best Party Ever"
+party_name = gets.chomp
 
-date = "October 31"
+date = gets.chomp
 
-time = "6 pm"
+time = gets.chomp
 
-host_name = "Harry Potter "
+host_name = gets.chomp
 
 puts "Hi, you've been invited to a party! What is your name #{guest_name}"
 puts "The party is called #{party_name}."
