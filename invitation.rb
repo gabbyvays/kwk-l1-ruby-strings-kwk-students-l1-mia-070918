@@ -13,3 +13,5 @@ party_name = gets.chomp
 date = gets.chomp
 
 time = gets.chomp
+
+host_name = gets.chomp
