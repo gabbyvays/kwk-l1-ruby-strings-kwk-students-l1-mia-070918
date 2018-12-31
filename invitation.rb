@@ -9,7 +9,7 @@ name = gets.chomp
 guest_name = "Hermoine"
 
 party_name = gets.chomp
-
+Best Halloween Party Ever
 date = gets.chomp
 
 time = gets.chomp
