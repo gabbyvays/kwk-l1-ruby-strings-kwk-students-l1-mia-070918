@@ -15,3 +15,4 @@ date = gets.chomp
 time = gets.chomp
 
 host_name = gets.chomp
+
