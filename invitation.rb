@@ -18,3 +18,4 @@ host_name = gets.chomp
 
 puts "Hi, you've been invited to a party! What is your name #{guest_name}"
 puts "What is the party called?"
+puts "The party is #{party_name}"
