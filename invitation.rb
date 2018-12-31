@@ -9,3 +9,5 @@ name = gets.chomp
 guest_name = "Hermoine"
 
 party_name = gets.chomp
+
+date = gets.chomp
