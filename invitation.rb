@@ -10,11 +10,11 @@ guest_name = "Hermoine"
 
 party_name = "Best Party Ever"
 
-date = ""
+date = "October 31"
 
-time = gets.chomp
+time = "6 pm"
 
-host_name = gets.chomp
+host_name = "Harry Potter "
 
 puts "Hi, you've been invited to a party! What is your name #{guest_name}"
 puts "The party is called #{party_name}."
