@@ -17,4 +17,4 @@ time = gets.chomp
 host_name = gets.chomp
 
 puts "Hi, you've been invited to a party! What is your name #{guest_name}"
-puts "The party is called #{party_name}."
+puts "What is the party called?"
