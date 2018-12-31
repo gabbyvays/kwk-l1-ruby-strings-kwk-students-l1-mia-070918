@@ -6,4 +6,4 @@ puts "Hi, you've been invited to a party! What is your name?"
 
 name = gets.chomp 
 
-guest_name = name
+guest_name = "name"
