@@ -16,3 +16,4 @@ time = gets.chomp
 
 host_name = gets.chomp
 
+puts ""
