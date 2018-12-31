@@ -8,7 +8,7 @@ name = gets.chomp
 
 guest_name = "Hermoine"
 
-party_name = gets.chomp
+party_name = gets
 
 date = gets.chomp
 
